@@ -2,18 +2,17 @@
 
 提供醫事機構的床數、服務項目、診療科別、基本資訊等資料。
 
-## 資料來源
+## 資料來源與檔案說明
 
 1. [衛生福利部醫事機構評鑑的公開資訊網站] (http://mcia.mohw.gov.tw/openinfo)
+  * **Hospital-BedSize.csv** - 醫事機構病床類別與床數資料
+  * **Hospital-Dept.csv** - 醫事機構診療科別資料
+
 2. [衛生福利部中央健保署特約醫事機構資料] (http://www.nhi.gov.tw/webdata/webdata.aspx?menu=18&menu_id=703&webdata_id=660)
-
-## 檔案說明
-
-* **hospbsc.csv** - 健保特約醫療院所名冊含機構代碼、地址、電話、特約類別
-* **Hospital-BedSize.csv** - 醫事機構病床類別與床數資料
-* **1290_1_hosp_code.csv** - 型態別代碼對照檔
-* **1292_1_service_code.csv** - 服務項目代碼對照檔
-* **1293_1_func_type.csv** - 診療科別代碼對照檔
+  * **hospbsc.csv** - 健保特約醫療院所名冊含機構代碼、地址、電話、特約類別
+  * **1290_1_hosp_code.csv** - 型態別代碼對照檔
+  * **1292_1_service_code.csv** - 服務項目代碼對照檔
+  * **1293_1_func_type.csv** - 診療科別代碼對照檔
 
 ## 資料欄位說明
 
