@@ -1,2 +1,20 @@
-# MoHW-Hosp-Data
-Hospital information from the MCIA-OpenInfo website of Taiwan's Ministry of Health and Wellfare
+# 衛福部機構公開資訊
+
+本資料係自衛生福利部醫事機構評鑑的公開資訊網站取得
+http://mcia.mohw.gov.tw/openinfo
+
+## 資料欄位說明
+
+1. City: 縣市
+2. Area: 鄉鎮
+3. Name: 醫事機構名稱
+4. Zone: 院區別
+5. 特約類別: 此欄位已經過整理，與醫事機構特約類別代碼對照後回復為類別文字。
+6. 機構屬性名稱：此欄位已經過整理，與醫事機構種類代碼對照後回復為屬性名稱。
+7. 病床類別
+8. 病床名稱
+9. 病床數量 
+
+## 資料更新日期
+
+本資料擷取日期為 2015-03-23
