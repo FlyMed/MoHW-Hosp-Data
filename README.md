@@ -22,6 +22,8 @@
   * **1292_1_service_code.csv** - 服務項目代碼對照檔 (2015-05-08)
   * **1293_1_func_type.csv** - 診療科別代碼對照檔 (2015-05-08)
 
+![db-diagram](https://cloud.githubusercontent.com/assets/3255019/7551134/e20873a6-f6af-11e4-8b19-d45303cd4b69.png)
+
 ## 資料欄位說明
 
 * 醫事機構病床類別與床數資料
